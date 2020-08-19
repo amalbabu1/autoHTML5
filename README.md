@@ -6,4 +6,4 @@
 *Python
 *PySimpleGUI
 
-#code generated will be saved in file index.html . 
+code generated will be saved in file index.html . 
