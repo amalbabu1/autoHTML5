@@ -1,2 +1,7 @@
 # autoHTML5
-automatically generates html code using GUI
+## automatic html5 creater using PySimpleGui
+*automatically generates html code using GUI
+
+## Technologies
+*Python
+*PySimpleGUI
